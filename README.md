@@ -1,4 +1,4 @@
 # D3.js-dataleak
 
-![Alt text](https://rawgithub.com/potherca/StackOverflow/gh-pages/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://rawgithub.com/potherca/StackOverflow/gh-pages/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+![Alt text](https://rawgithub.com/nickkimer/D3.js-dataleak/gh-pages/Final_Poster.svg)
+<img src="https://rawgithub.com/nickkimer/D3.js-dataleak/gh-pages/Final_Poster.svg">
